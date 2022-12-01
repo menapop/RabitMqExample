@@ -1,0 +1,17 @@
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\bin\Debug\net6.0\RabitMq.ConsoleApplication.exe
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\bin\Debug\net6.0\RabitMq.ConsoleApplication.deps.json
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\bin\Debug\net6.0\RabitMq.ConsoleApplication.runtimeconfig.json
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\bin\Debug\net6.0\RabitMq.ConsoleApplication.dll
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\bin\Debug\net6.0\RabitMq.ConsoleApplication.pdb
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.csproj.AssemblyReference.cache
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.AssemblyInfoInputs.cache
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.AssemblyInfo.cs
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.csproj.CopyComplete
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.dll
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\refint\RabitMq.ConsoleApplication.dll
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.pdb
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\RabitMq.ConsoleApplication.genruntimeconfig.cache
+D:\RabitMQ\RabitMqPrdouctApi\RabitMq.ConsoleApplication\obj\Debug\net6.0\ref\RabitMq.ConsoleApplication.dll
